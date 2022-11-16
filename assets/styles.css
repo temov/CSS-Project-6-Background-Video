@@ -1,0 +1,27 @@
+/*  CSS Document                             */
+
+@import url(http://fonts.googleapis.com/css?family=Indie+Flower);
+
+body { background-color: #45180a; }
+
+p{
+    position:absolute;
+    top: 5px;
+    left: 10px;
+    color: #fff;
+    font-family: 'Lobster', cursive;
+}
+}
+.promo {
+    position: relative; margin: 50px; font-size: 16px; font-family: 'indie Flower', cursive;}
+}
+.promo video{ width:100%; border: 1px solid #fff;
+}
+.promo img{
+    width: 160px;
+    position: absolute;
+    top: 20px;
+    left: 40%;
+    margin-left: 10px;
+}
+
